@@ -1,0 +1,20 @@
+/* main wrapper */
+
+.wrapper{
+     width: 960px;
+     margin: 2px auto;
+}
+
+.header h1{
+     display: inline
+}
+.header button{
+     float: right;
+     margin: 10px;
+     padding: 8px 4px;
+     width: 90px;
+     background-color: orange;
+     border: 0cap;
+     border-radius: 5px;
+
+}
